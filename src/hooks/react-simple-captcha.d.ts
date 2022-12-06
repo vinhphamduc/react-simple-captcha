@@ -1,4 +1,4 @@
-import { Component } from "react";
+import { Component } from 'react';
 
 export declare function loadCaptchaEnginge (
   numberOfCharacters: number, 
