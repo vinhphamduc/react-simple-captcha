@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-captcha",
+  "name": "@vinhpd/react-simple-captcha",
   "version": "9.0.0",
   "description": "A very simple, powerful and highly customizable captcha for ReactJS",
   "main": "react-simple-captcha.js",
@@ -34,5 +34,6 @@
   },
   "peerDependencies": {
     "react": "*"
-  }
+  },
+  "types": "./react-simple-captcha.d.ts"
 }
